@@ -29,4 +29,4 @@ To run this project, you need install MinGW Compiler on your PC and compile this
 Project is: _complete._
 
 ## Contact
-Created by [@Zulhaditya](https://itsmyportofolio.netlify.app/) - feel free to contact me!
+Created by [@Zulhaditya](https://zulhaditya.vercel.app) - feel free to contact me!
